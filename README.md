@@ -1,16 +1,22 @@
-## Hi there 👋
+```bash
+albert@github:~$ cat README.md
 
+[SYSTEM INFO]
+OS: Debian Linux / Proxmox VE
+Host: Ostrava, CZ
+Role: IT Student 
 
-**Bertold128/Bertold128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+albert@github:~$ neofetch --skills
 
-Here are some ideas to get you started:
+  * Basic Programming  : C#, Python, JavaScript, HTML/CSS, Bash
+  * Infrastructure: Proxmox VE, Docker, LXC, Home Assistant, Tailscale
+  * Self-Hosted   : Pi-hole, Cloudflare Tunnel, Syncthing, Immich
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+albert@github:~$ ls -la ~/projects/
 
+  drwxr-xr-x  HomeLab Network Setup (Proxmox + Docker stack)
+  drwxr-xr-x  Smart Home Automation (Zigbee2MQTT + Matter)
+  drwxr-xr-x  Local AI Experiments (Ollama + ComfyUI)
+
+albert@github:~$ exit
+logout
